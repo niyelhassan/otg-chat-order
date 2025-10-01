@@ -1,0 +1,3941 @@
+[
+  {
+    "id": 26885,
+    "name": "Add Carnitas",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26886,
+    "name": "Add Steak",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26887,
+    "name": "Add Short Ribs ()",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26889,
+    "name": "No Cheese",
+    "menu_item_class": 90060.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26890,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90060.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26891,
+    "name": "No Chips",
+    "menu_item_class": 90060.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26892,
+    "name": "No Cilantro",
+    "menu_item_class": 90060.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26894,
+    "name": "No Sour Cream",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26895,
+    "name": "No Guacamole",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26896,
+    "name": "As an Appetizer",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26897,
+    "name": "Add Guacamole",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26898,
+    "name": "Chorizo",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26899,
+    "name": "Salsa Verde",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26900,
+    "name": "Salsa Roja",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26901,
+    "name": "No Chorizo",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26902,
+    "name": "Extra Chips",
+    "menu_item_class": 90061.0,
+    "prices": [
+      {
+        "price": 1.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26904,
+    "name": "As an Appetizer",
+    "menu_item_class": 90062.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26905,
+    "name": "Add Guacamole",
+    "menu_item_class": 90062.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26907,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26908,
+    "name": "As an Appetizer",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26909,
+    "name": "Add Guacamole",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26910,
+    "name": "Salsa Verde",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26911,
+    "name": "Salsa Roja",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26912,
+    "name": "Black Beans",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26913,
+    "name": "Refried Beans",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26914,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26915,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90063.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26917,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26918,
+    "name": "As an Appetizer",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26919,
+    "name": "Add Guacamole",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26920,
+    "name": "Salsa Verde",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26921,
+    "name": "Salsa Roja",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26922,
+    "name": "Black Beans",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26923,
+    "name": "Refried Beans",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26924,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26925,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90064.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26927,
+    "name": "No Fruit",
+    "menu_item_class": 90065.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26929,
+    "name": "Add Coffee to Dessert",
+    "menu_item_class": 90066.0,
+    "prices": [
+      {
+        "price": 3.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26686,
+    "name": "Egg Whites",
+    "menu_item_class": 90022.0,
+    "prices": [
+      {
+        "price": 3.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26688,
+    "name": "Egg Whites",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 3.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26689,
+    "name": "Add a Scrambled Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26690,
+    "name": "Add an Over Easy Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26691,
+    "name": "Add an Over Medium Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26692,
+    "name": "Add an Over Hard Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26693,
+    "name": "Add a Poached Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26694,
+    "name": "Add a Sunny Side Up Egg",
+    "menu_item_class": 90023.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26696,
+    "name": "No Cheese",
+    "menu_item_class": 90024.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26698,
+    "name": "Bacon",
+    "menu_item_class": 90025.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26699,
+    "name": "Sausage",
+    "menu_item_class": 90025.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26700,
+    "name": "No Meat*",
+    "menu_item_class": 90025.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26701,
+    "name": "Chicken Sausage",
+    "menu_item_class": 90025.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26703,
+    "name": "Whole Milk",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26704,
+    "name": "Coke",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26705,
+    "name": "Diet Coke",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26706,
+    "name": "Seagram's Ginger Ale",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26707,
+    "name": "Sprite",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26708,
+    "name": "Orange Juice",
+    "menu_item_class": 90026.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26710,
+    "name": "No Beans",
+    "menu_item_class": 90030.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26711,
+    "name": "Black Beans",
+    "menu_item_class": 90030.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26712,
+    "name": "Refried Beans",
+    "menu_item_class": 90030.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26714,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90031.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26715,
+    "name": "No Cotija",
+    "menu_item_class": 90031.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26716,
+    "name": "No Peppers & Onions",
+    "menu_item_class": 90031.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26717,
+    "name": "No Lime",
+    "menu_item_class": 90031.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26719,
+    "name": "Add Guacamole",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26720,
+    "name": "Salsa Verde",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26721,
+    "name": "Salsa Roja",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26722,
+    "name": "Black Beans",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26723,
+    "name": "Refried Beans",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26724,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26725,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90032.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26727,
+    "name": "No Sauce",
+    "menu_item_class": 90033.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26728,
+    "name": "Sauce on the Side",
+    "menu_item_class": 90033.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26730,
+    "name": "No Avocado",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26731,
+    "name": "Salsa Verde",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26732,
+    "name": "Salsa Roja",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26733,
+    "name": "No Cilantro",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26734,
+    "name": "No Crema",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26735,
+    "name": "Rice & Beans",
+    "menu_item_class": 90034.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26737,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26738,
+    "name": "Add Guacamole",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26739,
+    "name": "Salsa Verde",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26740,
+    "name": "Salsa Roja",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26741,
+    "name": "Queso Sauce",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 2.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26742,
+    "name": "Refried Beans",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26743,
+    "name": "Cilantro",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26744,
+    "name": "Make it Impossible",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 4.5,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26745,
+    "name": "Pineapple",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": 0.5,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26746,
+    "name": "Pickled Onions",
+    "menu_item_class": 90035.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26748,
+    "name": "No Tortillas",
+    "menu_item_class": 90037.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26749,
+    "name": "Corn Tortilla (Tacos)",
+    "menu_item_class": 90037.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26750,
+    "name": "Flour Tortilla (Tacos)",
+    "menu_item_class": 90037.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26752,
+    "name": "No Jalapenos",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26753,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26754,
+    "name": "Add Guacamole",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26755,
+    "name": "No Beans",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26756,
+    "name": "Salsa Verde",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26757,
+    "name": "Salsa Roja",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26758,
+    "name": "Black Beans",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26759,
+    "name": "Refried Beans",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26760,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26761,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90038.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26763,
+    "name": "No Jalapenos",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26764,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26765,
+    "name": "Add Guacamole",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26766,
+    "name": "No Beans",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26767,
+    "name": "Salsa Verde",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26768,
+    "name": "Salsa Roja",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26769,
+    "name": "Black Beans",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26770,
+    "name": "Refried Beans",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26771,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26772,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26773,
+    "name": "No Peppers & Onions",
+    "menu_item_class": 90040.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26775,
+    "name": "No Bacon",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26776,
+    "name": "No Jalapenos",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26777,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26778,
+    "name": "Add Guacamole",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26779,
+    "name": "No Beans",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26780,
+    "name": "Salsa Verde",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26781,
+    "name": "Salsa Roja",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26782,
+    "name": "Black Beans",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26783,
+    "name": "Refried Beans",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26784,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26785,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90042.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26787,
+    "name": "No Cheese",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26788,
+    "name": "No Sauce",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26789,
+    "name": "Bacon",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26790,
+    "name": "Add Guacamole",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26791,
+    "name": "Salsa Verde",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26792,
+    "name": "Salsa Roja",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26793,
+    "name": "Sub Impossible Burger",
+    "menu_item_class": 90044.0,
+    "prices": [
+      {
+        "price": 4.9,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26795,
+    "name": "Bacon",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26796,
+    "name": "No Jalapenos",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26797,
+    "name": "Add Guacamole",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26798,
+    "name": "Salsa Verde",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26799,
+    "name": "Salsa Roja",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26800,
+    "name": "No Queso Sauce",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26801,
+    "name": "Make it Impossible",
+    "menu_item_class": 90045.0,
+    "prices": [
+      {
+        "price": 4.5,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26803,
+    "name": "No Cheese",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26804,
+    "name": "No Sauce",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26805,
+    "name": "No Beans",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26806,
+    "name": "Guacamole *",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26807,
+    "name": "Salsa Verde",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26808,
+    "name": "Salsa Roja",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26809,
+    "name": "Add Pico De Gallo",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": 1.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26810,
+    "name": "No Rice",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26811,
+    "name": "Chips & Queso",
+    "menu_item_class": 90046.0,
+    "prices": [
+      {
+        "price": 5.45,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26813,
+    "name": "No Onions",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26814,
+    "name": "No Tomato",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26815,
+    "name": "No Sauce",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26816,
+    "name": "Sauce on the Side",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26817,
+    "name": "No Arugula",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26818,
+    "name": "No Cheese",
+    "menu_item_class": 90047.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26820,
+    "name": "Sm Chips & Salsa",
+    "menu_item_class": 90048.0,
+    "prices": [
+      {
+        "price": 3.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26822,
+    "name": "No Tortillas",
+    "menu_item_class": 90049.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26823,
+    "name": "Corn Tortillas",
+    "menu_item_class": 90049.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26824,
+    "name": "Flour Tortillas",
+    "menu_item_class": 90049.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26826,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26827,
+    "name": "As an Appetizer",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26828,
+    "name": "Add Guacamole",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26829,
+    "name": "Salsa Verde",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26830,
+    "name": "Salsa Roja",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26831,
+    "name": "Black Beans",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26832,
+    "name": "Refried Beans",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26833,
+    "name": "Add Brown Rice",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26834,
+    "name": "Add Spanish Rice",
+    "menu_item_class": 90050.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26836,
+    "name": "Add Chicken",
+    "menu_item_class": 90051.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26837,
+    "name": "Add Chorizo",
+    "menu_item_class": 90051.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26838,
+    "name": "Add Carnitas",
+    "menu_item_class": 90051.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26839,
+    "name": "Add Steak",
+    "menu_item_class": 90051.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26840,
+    "name": "Add Short Ribs ()",
+    "menu_item_class": 90051.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26842,
+    "name": "No Cheese",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26843,
+    "name": "No Sour Cream",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26844,
+    "name": "No Guacamole",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26845,
+    "name": "No Jalapenos",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26846,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26847,
+    "name": "As an Appetizer",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26848,
+    "name": "Add Guacamole",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26849,
+    "name": "No Salsa",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26850,
+    "name": "No Beans",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26851,
+    "name": "Salsa Verde",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26852,
+    "name": "Salsa Roja",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26853,
+    "name": "Add Pico De Gallo",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": 1.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26854,
+    "name": "No Cilantro",
+    "menu_item_class": 90052.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26856,
+    "name": "Dressing on the Side",
+    "menu_item_class": 90054.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26857,
+    "name": "Lemon",
+    "menu_item_class": 90054.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26858,
+    "name": "No Dressing",
+    "menu_item_class": 90054.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26860,
+    "name": "No Olives",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26861,
+    "name": "No Onions",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26862,
+    "name": "No Tomato",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26863,
+    "name": "No Cucumbers",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26864,
+    "name": "No Radish",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26865,
+    "name": "No Chickpeas",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26866,
+    "name": "No Corn",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26867,
+    "name": "No Cotija",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26868,
+    "name": "No Raddichio",
+    "menu_item_class": 90055.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26870,
+    "name": "No Onions",
+    "menu_item_class": 90056.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26871,
+    "name": "No Tomato",
+    "menu_item_class": 90056.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26872,
+    "name": "No Avocado",
+    "menu_item_class": 90056.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26873,
+    "name": "No Cucumbers",
+    "menu_item_class": 90056.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26874,
+    "name": "No Shrimp",
+    "menu_item_class": 90056.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26876,
+    "name": "Dressing on the Side",
+    "menu_item_class": 90057.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26877,
+    "name": "Lemon",
+    "menu_item_class": 90057.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26878,
+    "name": "No Cheese",
+    "menu_item_class": 90057.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26879,
+    "name": "No Dressing",
+    "menu_item_class": 90057.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26880,
+    "name": "No Croutons",
+    "menu_item_class": 90057.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26882,
+    "name": "Add Chicken",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26883,
+    "name": "Add Shrimp",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26884,
+    "name": "Add Chorizo",
+    "menu_item_class": 90058.0,
+    "prices": [
+      {
+        "price": 8.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26506,
+    "name": "Rare",
+    "menu_item_class": 90002.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26507,
+    "name": "Medium Rare",
+    "menu_item_class": 90002.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26508,
+    "name": "Medium",
+    "menu_item_class": 90002.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26509,
+    "name": "Medium Well",
+    "menu_item_class": 90002.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26510,
+    "name": "Well Done",
+    "menu_item_class": 90002.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26512,
+    "name": "Bacon",
+    "menu_item_class": 90004.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26513,
+    "name": "Sausage",
+    "menu_item_class": 90004.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26514,
+    "name": "No Meat*",
+    "menu_item_class": 90004.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26528,
+    "name": "Egg Whites",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": 3.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26529,
+    "name": "Sunny Side Up",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26530,
+    "name": "Scrambled",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26531,
+    "name": "No Egg",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26532,
+    "name": "Over Hard",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26533,
+    "name": "Over Easy",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26534,
+    "name": "Over Medium",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26535,
+    "name": "Poached",
+    "menu_item_class": 90005.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26537,
+    "name": "White Toast",
+    "menu_item_class": 90006.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26538,
+    "name": "Wheat Toast",
+    "menu_item_class": 90006.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26539,
+    "name": "No Toast",
+    "menu_item_class": 90006.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26541,
+    "name": "No Cotija",
+    "menu_item_class": 90007.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26543,
+    "name": "No Cheese",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26544,
+    "name": "No Sauce",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26545,
+    "name": "No Sour Cream",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26546,
+    "name": "No Guacamole",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26547,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26548,
+    "name": "No Beans",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26549,
+    "name": "No Cilantro",
+    "menu_item_class": 90008.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26551,
+    "name": "No Sour Cream",
+    "menu_item_class": 90009.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26552,
+    "name": "No Jalapenos",
+    "menu_item_class": 90009.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26553,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90009.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26554,
+    "name": "No Cheese",
+    "menu_item_class": 90009.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26556,
+    "name": "Bacon",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26557,
+    "name": "Avocado",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 2.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26558,
+    "name": "Pork Sausage",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26559,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26560,
+    "name": "Add Potatoes",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 7.59,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26561,
+    "name": "Chorizo",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26562,
+    "name": "Pico de Gallo",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26563,
+    "name": "Pickled Jalapenos",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26564,
+    "name": "Queso Sauce",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 2.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26565,
+    "name": "Brown Rice",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26566,
+    "name": "Spanish Rice",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 1.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26567,
+    "name": "Salsa Roja",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26568,
+    "name": "Salsa Verde",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26569,
+    "name": "Fajita Peppers & Onions",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 1.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26570,
+    "name": "Jack Cheese Blend",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26571,
+    "name": "Black Beans",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26572,
+    "name": "Refried Beans",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26573,
+    "name": "Cilantro",
+    "menu_item_class": 90010.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26575,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90013.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26576,
+    "name": "No Cheese",
+    "menu_item_class": 90013.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26578,
+    "name": "No Bacon",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26579,
+    "name": "No Cheese",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26580,
+    "name": "Bacon",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26581,
+    "name": "Add Guacamole",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": 2.0,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26582,
+    "name": "Salsa Verde",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26583,
+    "name": "Salsa Roja",
+    "menu_item_class": 90014.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26585,
+    "name": "No Egg",
+    "menu_item_class": 90015.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26586,
+    "name": "No Cilantro",
+    "menu_item_class": 90015.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26588,
+    "name": "No Cheese",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26589,
+    "name": "Bacon",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26590,
+    "name": "Pork Sausage",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": 2.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26591,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26592,
+    "name": "No Chorizo",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26593,
+    "name": "Fajita Peppers & Onions",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": 1.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26594,
+    "name": "Jack Cheese Blend",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26595,
+    "name": "Black Beans",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26596,
+    "name": "Refried Beans",
+    "menu_item_class": 90016.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26598,
+    "name": "No Egg",
+    "menu_item_class": 90017.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26599,
+    "name": "No Guacamole",
+    "menu_item_class": 90017.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26600,
+    "name": "No Radish",
+    "menu_item_class": 90017.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26601,
+    "name": "No Cilantro",
+    "menu_item_class": 90017.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26602,
+    "name": "No Cotija",
+    "menu_item_class": 90017.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26604,
+    "name": "No Sour Cream",
+    "menu_item_class": 90018.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26605,
+    "name": "No Guacamole",
+    "menu_item_class": 90018.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26606,
+    "name": "No Pico de Gallo",
+    "menu_item_class": 90018.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26607,
+    "name": "No Cilantro",
+    "menu_item_class": 90018.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26609,
+    "name": "No Bacon",
+    "menu_item_class": 90019.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26610,
+    "name": "No Egg",
+    "menu_item_class": 90019.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26611,
+    "name": "No Jalapenos",
+    "menu_item_class": 90019.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26613,
+    "name": "No Bacon",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26614,
+    "name": "No Egg",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26615,
+    "name": "No Onions",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26616,
+    "name": "No Cilantro",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26617,
+    "name": "No Cotija",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26618,
+    "name": "No Queso Sauce",
+    "menu_item_class": 90020.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26620,
+    "name": "Egg Whites",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": 3.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26621,
+    "name": "No Bacon",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26622,
+    "name": "No Cheese",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26623,
+    "name": "Add Sour Cream",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": 0.99,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26624,
+    "name": "Salsa Verde",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26625,
+    "name": "Salsa Roja",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": 0.49,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26626,
+    "name": "Black Beans",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  },
+  {
+    "id": 26627,
+    "name": "Refried Beans",
+    "menu_item_class": 90021.0,
+    "prices": [
+      {
+        "price": null,
+        "menu_level": null,
+        "price_sequence": 1.0,
+        "tax_class": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,641 @@
+Id,OrganizationId,UnitType,ParentHierarchyId,HierarchyName,LocRef,ObjectNumber,HierarchyId
+902,10367,RevenueCenter,332,EWR Abruzzo Mercato,,316,902
+917,10367,RevenueCenter,332,EWR C1 Holdroom 74,,403,917
+922,10367,RevenueCenter,332,EWR C1 Holdroom 90,,408,922
+928,10367,RevenueCenter,332,EWR C2 Holdroom 104,,414,928
+937,10367,RevenueCenter,332,EWR C3 Holdroom 134,,423,937
+952,10367,RevenueCenter,340,PHL B Gate B4,,410,952
+1013,10367,Zone,1005,MCO Beverage Menu Staging,,9008,1013
+904,10367,RevenueCenter,332,EWR Uptop Pizza C2,,217,904
+915,10367,RevenueCenter,332,EWR C1 Holdroom 70,,401,915
+918,10367,RevenueCenter,332,EWR C1 Holdroom 80,,404,918
+919,10367,RevenueCenter,332,EWR C1 Holdroom 81,,405,919
+923,10367,RevenueCenter,332,EWR C1 Holdroom 92,,409,923
+931,10367,RevenueCenter,332,EWR C2 Holdroom 109,,417,931
+934,10367,RevenueCenter,332,EWR C3 Holdroom 122,,420,934
+938,10367,RevenueCenter,332,EWR C3 Holdroom 138,,424,938
+939,10367,RevenueCenter,333,IAH Ember Holdroom,,402,939
+942,10367,RevenueCenter,333,IAH Q Bar Holdroom,,405,942
+947,10367,RevenueCenter,340,PHL B Gate B14,,405,947
+950,10367,RevenueCenter,340,PHL B Gate B2,,408,950
+951,10367,RevenueCenter,340,PHL B Gate B3,,409,951
+953,10367,RevenueCenter,340,PHL B Gate B5,,411,953
+956,10367,RevenueCenter,340,PHL B Gate B8,,414,956
+958,10367,RevenueCenter,332,EWR World Bean Food Hall C1,,218,958
+962,10367,RevenueCenter,882,JFK T5 Nom Wah,,101,962
+964,10367,RevenueCenter,882,JFK T5 The Halal Guys,,202,964
+971,10367,RevenueCenter,882,JFK T5 Devocion Coffee,,206,971
+1012,10367,Zone,1005,LGAMAT Beverage Menu Staging,,9007,1012
+42,10367,Enterprise,,OTG Concessions Management LLC,,,42
+330,10367,Property,42,DCA,DCA,1,330
+331,10367,Property,42,DEN,DEN,2,331
+332,10367,Property,42,EWR,EWR,3,332
+333,10367,Property,42,IAH,IAH,4,333
+334,10367,Property,42,JFK T5,JFKT5,5,334
+335,10367,Property,42,LGA C,LGAC,6,335
+336,10367,Property,42,LGA MAT,LGAMAT,7,336
+337,10367,Property,42,MCO,MCO,8,337
+338,10367,Property,42,MSP,MSP,9,338
+339,10367,Property,42,ORD,ORD,10,339
+340,10367,Property,42,PHL B,PHLB,11,340
+341,10367,Property,42,PHL F,PHLF,12,341
+342,10367,Property,42,YYZ,YYZ,13,342
+343,10367,RevenueCenter,330,DCA District Bar,,101,343
+344,10367,RevenueCenter,330,DCA Page,,102,344
+345,10367,RevenueCenter,330,DCA Reservoir,,103,345
+346,10367,RevenueCenter,330,DCA Cibo Express Pre,,301,346
+766,10367,Zone,705,DCA Cibo Express Pre,,301,766
+669,10367,Zone,662,DCA Cibo Express Pre,,301,669
+347,10367,RevenueCenter,330,DCA CTY,,302,347
+767,10367,Zone,705,DCA CTY,,302,767
+670,10367,Zone,662,DCA CTY,,302,670
+348,10367,RevenueCenter,330,DCA Food Hall DCA,,303,348
+768,10367,Zone,705,DCA Food Hall DCA,,303,768
+671,10367,Zone,662,DCA Food Hall DCA,,303,671
+349,10367,RevenueCenter,331,DEN Sunset Loop,,101,349
+350,10367,RevenueCenter,331,DEN Sunset Loop Market,,301,350
+769,10367,Zone,740,DEN Sunset Loop Market,,301,769
+672,10367,Zone,663,DEN Sunset Loop Market,,301,672
+351,10367,RevenueCenter,332,EWR Abruzzo,,101,351
+352,10367,RevenueCenter,332,EWR Bar Right,,102,352
+353,10367,RevenueCenter,332,EWR Daily,,103,353
+354,10367,RevenueCenter,332,EWR Kaedama,,104,354
+355,10367,RevenueCenter,332,EWR Little Purse C1,,105,355
+356,10367,RevenueCenter,332,EWR Melange,,106,356
+357,10367,RevenueCenter,332,EWR Novella,,107,357
+358,10367,RevenueCenter,332,EWR Oeno,,108,358
+359,10367,RevenueCenter,332,EWR Riviera,,109,359
+360,10367,RevenueCenter,332,EWR Surf,,110,360
+361,10367,RevenueCenter,332,EWR Vesper Tavern,,111,361
+362,10367,RevenueCenter,332,EWR Wanderlust,,112,362
+363,10367,RevenueCenter,332,EWR Happy Clam,,113,363
+364,10367,RevenueCenter,332,EWR Little Purse C2,,114,364
+365,10367,RevenueCenter,332,EWR Proof,,115,365
+366,10367,RevenueCenter,332,EWR Vanguard,,116,366
+367,10367,RevenueCenter,332,EWR Caps Beer Garden,,117,367
+368,10367,RevenueCenter,332,EWR Flora Cafe,,118,368
+369,10367,RevenueCenter,332,EWR Forno Magico,,119,369
+370,10367,RevenueCenter,332,EWR Nonna's Kitchen,,120,370
+371,10367,RevenueCenter,332,EWR Saison,,121,371
+372,10367,RevenueCenter,332,EWR Victory Grille,,122,372
+373,10367,RevenueCenter,332,EWR Uptop Pizza L1,,123,373
+770,10367,Zone,758,EWR Uptop Pizza L1,,123,770
+673,10367,Zone,664,EWR Uptop Pizza L1,,123,673
+374,10367,RevenueCenter,332,EWR Shake Shack,,201,374
+771,10367,Zone,758,EWR Shake Shack,,201,771
+674,10367,Zone,664,EWR Shake Shack,,201,674
+375,10367,RevenueCenter,332,EWR Cascianos,,202,375
+772,10367,Zone,758,EWR Cascianos,,202,772
+675,10367,Zone,664,EWR Cascianos,,202,675
+376,10367,RevenueCenter,332,EWR Custom Burgers C1,,203,376
+773,10367,Zone,758,EWR Custom Burgers C1,,203,773
+676,10367,Zone,664,EWR Custom Burgers C1,,203,676
+377,10367,RevenueCenter,332,EWR Melange Bakery,,204,377
+774,10367,Zone,758,EWR Melange Bakery,,204,774
+677,10367,Zone,664,EWR Melange Bakery,,204,677
+378,10367,RevenueCenter,332,EWR Notorious P.I.G.,,205,378
+775,10367,Zone,758,EWR Notorious P.I.G.,,205,775
+678,10367,Zone,664,EWR Notorious P.I.G.,,205,678
+379,10367,RevenueCenter,332,EWR Philly Cheesesteaks C1,,206,379
+776,10367,Zone,758,EWR Philly Cheesesteaks C1,,206,776
+679,10367,Zone,664,EWR Philly Cheesesteaks C1,,206,679
+380,10367,RevenueCenter,332,EWR The Panini Shop,,207,380
+777,10367,Zone,758,EWR The Panini Shop,,207,777
+680,10367,Zone,664,EWR The Panini Shop,,207,680
+381,10367,RevenueCenter,332,EWR Uptop Pizza C1,,208,381
+778,10367,Zone,758,EWR Uptop Pizza C1,,208,778
+681,10367,Zone,664,EWR Uptop Pizza C1,,208,681
+382,10367,RevenueCenter,332,EWR Uptop Pizza C1 93,,209,382
+779,10367,Zone,758,EWR Uptop Pizza C1 93,,209,779
+682,10367,Zone,664,EWR Uptop Pizza C1 93,,209,682
+383,10367,RevenueCenter,332,EWR Wabi Sabi C1,,210,383
+780,10367,Zone,758,EWR Wabi Sabi C1,,210,780
+683,10367,Zone,664,EWR Wabi Sabi C1,,210,683
+384,10367,RevenueCenter,332,EWR Custom Burgers C3,,211,384
+781,10367,Zone,758,EWR Custom Burgers C3,,211,781
+684,10367,Zone,664,EWR Custom Burgers C3,,211,684
+385,10367,RevenueCenter,332,EWR Philly Cheesesteaks C3,,212,385
+782,10367,Zone,758,EWR Philly Cheesesteaks C3,,212,782
+685,10367,Zone,664,EWR Philly Cheesesteaks C3,,212,685
+386,10367,RevenueCenter,332,EWR Tagliare C3,,213,386
+783,10367,Zone,758,EWR Tagliare C3,,213,783
+686,10367,Zone,664,EWR Tagliare C3,,213,686
+687,10367,Zone,664,EWR The Deli,,214,687
+387,10367,RevenueCenter,332,EWR The Deli,,214,387
+784,10367,Zone,758,EWR The Deli,,214,784
+688,10367,Zone,664,EWR Wabi Sabi C3,,215,688
+388,10367,RevenueCenter,332,EWR Wabi Sabi C3,,215,388
+785,10367,Zone,758,EWR Wabi Sabi C3,,215,785
+689,10367,Zone,664,EWR World Bean Food Hall C3,,216,689
+389,10367,RevenueCenter,332,EWR World Bean Food Hall C3,,216,389
+786,10367,Zone,758,EWR World Bean Food Hall C3,,216,786
+690,10367,Zone,664,EWR Cibo Express Atrium West,,301,690
+390,10367,RevenueCenter,332,EWR Cibo Express Atrium West,,301,390
+787,10367,Zone,758,EWR Cibo Express Atrium West,,301,787
+691,10367,Zone,664,EWR C1 Global Bazaar,,302,691
+391,10367,RevenueCenter,332,EWR C1 Global Bazaar,,302,391
+788,10367,Zone,758,EWR C1 Global Bazaar,,302,788
+692,10367,Zone,664,EWR Cibo Express 74,,303,692
+392,10367,RevenueCenter,332,EWR Cibo Express 74,,303,392
+789,10367,Zone,758,EWR Cibo Express 74,,303,789
+693,10367,Zone,664,EWR Cibo Express 75,,304,693
+393,10367,RevenueCenter,332,EWR Cibo Express 75,,304,393
+790,10367,Zone,758,EWR Cibo Express 75,,304,790
+694,10367,Zone,664,EWR Cibo Express 90,,305,694
+394,10367,RevenueCenter,332,EWR Cibo Express 90,,305,394
+791,10367,Zone,758,EWR Cibo Express 90,,305,791
+695,10367,Zone,664,EWR Cibo Express 93,,306,695
+395,10367,RevenueCenter,332,EWR Cibo Express 93,,306,395
+792,10367,Zone,758,EWR Cibo Express 93,,306,792
+696,10367,Zone,664,EWR Surf Market,,307,696
+396,10367,RevenueCenter,332,EWR Surf Market,,307,396
+793,10367,Zone,758,EWR Surf Market,,307,793
+697,10367,Zone,664,EWR Wanderlust Market,,308,697
+397,10367,RevenueCenter,332,EWR Wanderlust Market,,308,397
+794,10367,Zone,758,EWR Wanderlust Market,,308,794
+698,10367,Zone,664,EWR Cibo Express 104,,309,698
+398,10367,RevenueCenter,332,EWR Cibo Express 104,,309,398
+795,10367,Zone,758,EWR Cibo Express 104,,309,795
+699,10367,Zone,664,EWR Happy Clam Market,,310,699
+399,10367,RevenueCenter,332,EWR Happy Clam Market,,310,399
+796,10367,Zone,758,EWR Happy Clam Market,,310,796
+700,10367,Zone,664,EWR Vanguard Market,,311,700
+400,10367,RevenueCenter,332,EWR Vanguard Market,,311,400
+797,10367,Zone,758,EWR Vanguard Market,,311,797
+701,10367,Zone,664,EWR C3 Global Bazaar,,312,701
+401,10367,RevenueCenter,332,EWR C3 Global Bazaar,,312,401
+798,10367,Zone,758,EWR C3 Global Bazaar,,312,798
+702,10367,Zone,664,EWR Cibo Express 131,,313,702
+402,10367,RevenueCenter,332,EWR Cibo Express 131,,313,402
+799,10367,Zone,758,EWR Cibo Express 131,,313,799
+703,10367,Zone,664,EWR Cibo Express Checkpoint,,314,703
+403,10367,RevenueCenter,332,EWR Cibo Express Checkpoint,,314,403
+800,10367,Zone,758,EWR Cibo Express Checkpoint,,314,800
+704,10367,Zone,664,EWR Uptop Pizza Market,,315,704
+404,10367,RevenueCenter,332,EWR Uptop Pizza Market,,315,404
+801,10367,Zone,758,EWR Uptop Pizza Market,,315,801
+405,10367,RevenueCenter,333,IAH Q Bar,,101,405
+406,10367,RevenueCenter,333,IAH Sugar Land Beer Garden,,102,406
+407,10367,RevenueCenter,333,IAH The Line Sports Grill IAH B,,103,407
+408,10367,RevenueCenter,333,IAH Bam Bam,,104,408
+409,10367,RevenueCenter,333,IAH Ember,,105,409
+410,10367,RevenueCenter,333,IAH Olio,,106,410
+411,10367,RevenueCenter,333,IAH Pala,,107,411
+412,10367,RevenueCenter,333,IAH Q Bar IAH CN,,108,412
+413,10367,RevenueCenter,333,IAH Vida,,109,413
+414,10367,RevenueCenter,333,IAH Agave,,110,414
+415,10367,RevenueCenter,333,IAH Alchemy Craft Cocktail,,111,415
+416,10367,RevenueCenter,333,IAH El Premio,,112,416
+417,10367,RevenueCenter,333,IAH Forno Magico,,113,417
+418,10367,RevenueCenter,333,IAH H Burger Bar,,114,418
+419,10367,RevenueCenter,333,IAH Little Purse,,115,419
+420,10367,RevenueCenter,333,IAH Southern Belle,,116,420
+421,10367,RevenueCenter,333,IAH Beerhive East,,117,421
+422,10367,RevenueCenter,333,IAH El Premio Dos,,119,422
+423,10367,RevenueCenter,333,IAH Gavi,,120,423
+424,10367,RevenueCenter,333,IAH Houston Wheel House,,121,424
+425,10367,RevenueCenter,333,IAH Q Smokehouse,,122,425
+426,10367,RevenueCenter,333,IAH Live Fire Burger,,123,426
+427,10367,RevenueCenter,333,IAH Tanglewood,,124,427
+428,10367,RevenueCenter,333,IAH Uptop Pizza E1,,125,428
+429,10367,RevenueCenter,333,IAH Yume,,126,429
+706,10367,Zone,665,IAH B Tagliare Pizza,,201,706
+430,10367,RevenueCenter,333,IAH B Tagliare Pizza,,201,430
+802,10367,Zone,759,IAH B Tagliare Pizza,,201,802
+707,10367,Zone,665,IAH World Bean C1,,202,707
+431,10367,RevenueCenter,333,IAH World Bean C1,,202,431
+803,10367,Zone,759,IAH World Bean C1,,202,803
+708,10367,Zone,665,IAH World Bean C14,,203,708
+432,10367,RevenueCenter,333,IAH World Bean C14,,203,432
+804,10367,Zone,759,IAH World Bean C14,,203,804
+709,10367,Zone,665,IAH Custom Burgers,,204,709
+433,10367,RevenueCenter,333,IAH Custom Burgers,,204,433
+805,10367,Zone,759,IAH Custom Burgers,,204,805
+710,10367,Zone,665,IAH El Premio Dos,,205,710
+434,10367,RevenueCenter,333,IAH El Premio Dos,,205,434
+806,10367,Zone,759,IAH El Premio Dos,,205,806
+711,10367,Zone,665,IAH Cibo Express B20,,301,711
+435,10367,RevenueCenter,333,IAH Cibo Express B20,,301,435
+807,10367,Zone,759,IAH Cibo Express B20,,301,807
+712,10367,Zone,665,IAH Q Bar Market,,302,712
+436,10367,RevenueCenter,333,IAH Q Bar Market,,302,436
+808,10367,Zone,759,IAH Q Bar Market,,302,808
+713,10367,Zone,665,IAH Bam Bam Market,,303,713
+437,10367,RevenueCenter,333,IAH Bam Bam Market,,303,437
+809,10367,Zone,759,IAH Bam Bam Market,,303,809
+714,10367,Zone,665,IAH Cibo Express C1,,304,714
+438,10367,RevenueCenter,333,IAH Cibo Express C1,,304,438
+810,10367,Zone,759,IAH Cibo Express C1,,304,810
+715,10367,Zone,665,IAH Cibo Express C14,,305,715
+439,10367,RevenueCenter,333,IAH Cibo Express C14,,305,439
+811,10367,Zone,759,IAH Cibo Express C14,,305,811
+716,10367,Zone,665,IAH Cibo Express C9,,306,716
+440,10367,RevenueCenter,333,IAH Cibo Express C9,,306,440
+812,10367,Zone,759,IAH Cibo Express C9,,306,812
+717,10367,Zone,665,IAH Cibo Express Wallmarket,,307,717
+441,10367,RevenueCenter,333,IAH Cibo Express Wallmarket,,307,441
+813,10367,Zone,759,IAH Cibo Express Wallmarket,,307,813
+718,10367,Zone,665,IAH Vida Market,,308,718
+442,10367,RevenueCenter,333,IAH Vida Market,,308,442
+814,10367,Zone,759,IAH Vida Market,,308,814
+719,10367,Zone,665,IAH Agave Market,,309,719
+443,10367,RevenueCenter,333,IAH Agave Market,,309,443
+815,10367,Zone,759,IAH Agave Market,,309,815
+720,10367,Zone,665,IAH Cibo Express 32,,310,720
+444,10367,RevenueCenter,333,IAH Cibo Express 32,,310,444
+816,10367,Zone,759,IAH Cibo Express 32,,310,816
+721,10367,Zone,665,IAH Cibo Express 34,,311,721
+445,10367,RevenueCenter,333,IAH Cibo Express 34,,311,445
+817,10367,Zone,759,IAH Cibo Express 34,,311,817
+722,10367,Zone,665,IAH Cibo Express North Bridge,,312,722
+446,10367,RevenueCenter,333,IAH Cibo Express North Bridge,,312,446
+818,10367,Zone,759,IAH Cibo Express North Bridge,,312,818
+723,10367,Zone,665,IAH Cibo Express South Bridge,,313,723
+447,10367,RevenueCenter,333,IAH Cibo Express South Bridge,,313,447
+819,10367,Zone,759,IAH Cibo Express South Bridge,,313,819
+724,10367,Zone,665,IAH El Premio Market,,314,724
+448,10367,RevenueCenter,333,IAH El Premio Market,,314,448
+820,10367,Zone,759,IAH El Premio Market,,314,820
+725,10367,Zone,665,IAH Southern Belle Market,,315,725
+449,10367,RevenueCenter,333,IAH Southern Belle Market,,315,449
+821,10367,Zone,759,IAH Southern Belle Market,,315,821
+726,10367,Zone,665,IAH Cibo Express 1,,316,726
+450,10367,RevenueCenter,333,IAH Cibo Express 1,,316,450
+822,10367,Zone,759,IAH Cibo Express 1,,316,822
+727,10367,Zone,665,IAH Cibo Express 10,,317,727
+451,10367,RevenueCenter,333,IAH Cibo Express 10,,317,451
+823,10367,Zone,759,IAH Cibo Express 10,,317,823
+728,10367,Zone,665,IAH Cibo Express 12,,318,728
+452,10367,RevenueCenter,333,IAH Cibo Express 12,,318,452
+824,10367,Zone,759,IAH Cibo Express 12,,318,824
+729,10367,Zone,665,IAH Cibo Express 18,,319,729
+453,10367,RevenueCenter,333,IAH Cibo Express 18,,319,453
+825,10367,Zone,759,IAH Cibo Express 18,,319,825
+730,10367,Zone,665,IAH Cibo Express 2,,320,730
+454,10367,RevenueCenter,333,IAH Cibo Express 2,,320,454
+826,10367,Zone,759,IAH Cibo Express 2,,320,826
+731,10367,Zone,665,IAH Cibo Express 22,,321,731
+455,10367,RevenueCenter,333,IAH Cibo Express 22,,321,455
+827,10367,Zone,759,IAH Cibo Express 22,,321,827
+732,10367,Zone,665,IAH Cibo Express 24,,322,732
+456,10367,RevenueCenter,333,IAH Cibo Express 24,,322,456
+828,10367,Zone,759,IAH Cibo Express 24,,322,828
+733,10367,Zone,665,IAH Cibo Express 5,,323,733
+457,10367,RevenueCenter,333,IAH Cibo Express 5,,323,457
+829,10367,Zone,759,IAH Cibo Express 5,,323,829
+734,10367,Zone,665,IAH Gavi Market,,324,734
+458,10367,RevenueCenter,333,IAH Gavi Market,,324,458
+830,10367,Zone,759,IAH Gavi Market,,324,830
+735,10367,Zone,665,IAH Tanglewood Market,,325,735
+459,10367,RevenueCenter,333,IAH Tanglewood Market,,325,459
+831,10367,Zone,759,IAH Tanglewood Market,,325,831
+736,10367,Zone,665,IAH Yume Market,,326,736
+460,10367,RevenueCenter,333,IAH Yume Market,,326,460
+832,10367,Zone,759,IAH Yume Market,,326,832
+461,10367,RevenueCenter,333,IAH Bam Bam Holdroom,,401,461
+462,10367,RevenueCenter,334,JFK T5 5ive Steak,,101,462
+463,10367,RevenueCenter,334,JFK T5 Aeronuova,,102,463
+464,10367,RevenueCenter,334,JFK T5 Deep Blue,,103,464
+465,10367,RevenueCenter,334,JFK T5 EC Revive 10,,104,465
+466,10367,RevenueCenter,334,JFK T5 EC Revive 17,,105,466
+467,10367,RevenueCenter,334,JFK T5 FC Revive Bar,,106,467
+468,10367,RevenueCenter,334,JFK T5 Lavie,,107,468
+469,10367,RevenueCenter,334,JFK T5 Loft,,108,469
+470,10367,RevenueCenter,334,JFK T5 NC ReVive,,109,470
+471,10367,RevenueCenter,334,JFK T5 NYSG,,110,471
+472,10367,RevenueCenter,334,JFK T5 Piquillo,,111,472
+473,10367,RevenueCenter,334,JFK T5 Revolucion,,112,473
+474,10367,RevenueCenter,334,JFK T5 SC Horizon,,113,474
+475,10367,RevenueCenter,334,JFK T5 SC Revive,,114,475
+476,10367,RevenueCenter,334,JFK T5 EC World Bean,,201,476
+833,10367,Zone,760,JFK T5 EC World Bean,,201,833
+477,10367,RevenueCenter,334,JFK T5 FC Artichoke,,202,477
+834,10367,Zone,760,JFK T5 FC Artichoke,,202,834
+478,10367,RevenueCenter,334,JFK T5 FC Caribbean Kitchen,,203,478
+835,10367,Zone,760,JFK T5 FC Caribbean Kitchen,,203,835
+479,10367,RevenueCenter,334,JFK T5 FC Custom Burgers,,204,479
+836,10367,Zone,760,JFK T5 FC Custom Burgers,,204,836
+480,10367,RevenueCenter,334,JFK T5 FC H&H Bagels,,205,480
+837,10367,Zone,760,JFK T5 FC H&H Bagels,,205,837
+481,10367,RevenueCenter,334,JFK T5 FC Lucy's,,206,481
+838,10367,Zone,760,JFK T5 FC Lucy's,,206,838
+482,10367,RevenueCenter,334,JFK T5 FC Philly Cheesesteaks,,207,482
+839,10367,Zone,760,JFK T5 FC Philly Cheesesteaks,,207,839
+483,10367,RevenueCenter,334,JFK T5 Revoluction Takeout & Mkt,,208,483
+840,10367,Zone,760,JFK T5 Revoluction Takeout & Mkt,,208,840
+484,10367,RevenueCenter,334,JFK T5 Deep Blue Fly,,301,484
+841,10367,Zone,760,JFK T5 Deep Blue Fly,,301,841
+485,10367,RevenueCenter,334,JFK T5 EC Aunt Butchies,,302,485
+842,10367,Zone,760,JFK T5 EC Aunt Butchies,,302,842
+486,10367,RevenueCenter,334,JFK T5 EC Cibo Express 10,,303,486
+843,10367,Zone,760,JFK T5 EC Cibo Express 10,,303,843
+487,10367,RevenueCenter,334,JFK T5 Food Court,,304,487
+844,10367,Zone,760,JFK T5 Food Court,,304,844
+488,10367,RevenueCenter,334,JFK T5 LL Cibo Express,,305,488
+845,10367,Zone,760,JFK T5 LL Cibo Express,,305,845
+489,10367,RevenueCenter,334,JFK T5 PS Cibo Express,,306,489
+846,10367,Zone,760,JFK T5 PS Cibo Express,,306,846
+490,10367,RevenueCenter,334,JFK T5 SC Cibo Express / World Bean,,307,490
+847,10367,Zone,760,JFK T5 SC Cibo Express / World Bean,,307,847
+491,10367,RevenueCenter,335,LGA C Cotto,,101,491
+492,10367,RevenueCenter,335,LGA C The Grille,,102,492
+493,10367,RevenueCenter,335,LGA C Bubby's Diner,,103,493
+494,10367,RevenueCenter,335,LGA C Chuko,,104,494
+495,10367,RevenueCenter,335,LGA C Essex Burger,,105,495
+496,10367,RevenueCenter,335,LGA C Sunday Supper,,106,496
+497,10367,RevenueCenter,335,LGA C Terrace Bar E,,107,497
+498,10367,RevenueCenter,335,LGA C Calista Taverna,,108,498
+499,10367,RevenueCenter,335,LGA C Prime,,109,499
+500,10367,RevenueCenter,335,LGA C Soleil Brasserie,,110,500
+501,10367,RevenueCenter,335,LGA C Terrace Bar,,111,501
+502,10367,RevenueCenter,335,LGA C The Line Sports Grill,,112,502
+503,10367,RevenueCenter,335,LGA C Flatiron Tavern,,113,503
+504,10367,RevenueCenter,335,LGA C Rossi Pizzeria,,114,504
+505,10367,RevenueCenter,335,LGA C Artichoke,,201,505
+614,10367,Zone,612,LGA C Artichoke,,201,614
+638,10367,Zone,613,LGA C Artichoke,,201,638
+506,10367,RevenueCenter,335,LGA C Auntie Anne's,,202,506
+615,10367,Zone,612,LGA C Auntie Anne's,,202,615
+639,10367,Zone,613,LGA C Auntie Anne's,,202,639
+507,10367,RevenueCenter,335,LGA C Jamba Juice,,203,507
+616,10367,Zone,612,LGA C Jamba Juice,,203,616
+640,10367,Zone,613,LGA C Jamba Juice,,203,640
+508,10367,RevenueCenter,335,LGA C King David Taco's,,204,508
+617,10367,Zone,612,LGA C King David Taco's,,204,617
+641,10367,Zone,613,LGA C King David Taco's,,204,641
+509,10367,RevenueCenter,335,LGA C Kombu,,205,509
+618,10367,Zone,612,LGA C Kombu,,205,618
+642,10367,Zone,613,LGA C Kombu,,205,642
+510,10367,RevenueCenter,335,LGA C Magnolia Bakery,,206,510
+619,10367,Zone,612,LGA C Magnolia Bakery,,206,619
+643,10367,Zone,613,LGA C Magnolia Bakery,,206,643
+511,10367,RevenueCenter,335,LGA C Taim,,207,511
+620,10367,Zone,612,LGA C Taim,,207,620
+644,10367,Zone,613,LGA C Taim,,207,644
+512,10367,RevenueCenter,335,LGA C Trinity Burger's,,208,512
+621,10367,Zone,612,LGA C Trinity Burger's,,208,621
+645,10367,Zone,613,LGA C Trinity Burger's,,208,645
+513,10367,RevenueCenter,335,LGA C Juice Press,,209,513
+622,10367,Zone,612,LGA C Juice Press,,209,622
+646,10367,Zone,613,LGA C Juice Press,,209,646
+514,10367,RevenueCenter,335,LGA C Cibo Express Center,,301,514
+623,10367,Zone,612,LGA C Cibo Express Center,,301,623
+647,10367,Zone,613,LGA C Cibo Express Center,,301,647
+515,10367,RevenueCenter,335,LGA C Food Hall,,302,515
+624,10367,Zone,612,LGA C Food Hall,,302,624
+648,10367,Zone,613,LGA C Food Hall,,302,648
+516,10367,RevenueCenter,335,LGA C Bubby's Diner Market,,303,516
+625,10367,Zone,612,LGA C Bubby's Diner Market,,303,625
+649,10367,Zone,613,LGA C Bubby's Diner Market,,303,649
+517,10367,RevenueCenter,335,LGA C Cibo Express - Connector,,304,517
+626,10367,Zone,612,LGA C Cibo Express - Connector,,304,626
+650,10367,Zone,613,LGA C Cibo Express - Connector,,304,650
+518,10367,RevenueCenter,335,LGA C Essex Burger Market,,305,518
+627,10367,Zone,612,LGA C Essex Burger Market,,305,627
+651,10367,Zone,613,LGA C Essex Burger Market,,305,651
+519,10367,RevenueCenter,335,LGA C Sunday Supper Market,,306,519
+628,10367,Zone,612,LGA C Sunday Supper Market,,306,628
+652,10367,Zone,613,LGA C Sunday Supper Market,,306,652
+520,10367,RevenueCenter,335,LGA C Cibo Express Connector F,,307,520
+629,10367,Zone,612,LGA C Cibo Express Connector F,,307,629
+653,10367,Zone,613,LGA C Cibo Express Connector F,,307,653
+521,10367,RevenueCenter,335,LGA C Cibo Express Departures F,,308,521
+630,10367,Zone,612,LGA C Cibo Express Departures F,,308,630
+654,10367,Zone,613,LGA C Cibo Express Departures F,,308,654
+522,10367,RevenueCenter,335,LGA C The Line Market,,309,522
+631,10367,Zone,612,LGA C The Line Market,,309,631
+655,10367,Zone,613,LGA C The Line Market,,309,655
+523,10367,RevenueCenter,335,LGA C Calista Taverna Market,,310,523
+632,10367,Zone,612,LGA C Calista Taverna Market,,310,632
+656,10367,Zone,613,LGA C Calista Taverna Market,,310,656
+524,10367,RevenueCenter,335,LGA C Soleil Brasserie Market,,311,524
+633,10367,Zone,612,LGA C Soleil Brasserie Market,,311,633
+657,10367,Zone,613,LGA C Soleil Brasserie Market,,311,657
+525,10367,RevenueCenter,335,LGA C The Line Sports Grill Market,,312,525
+634,10367,Zone,612,LGA C The Line Sports Grill Market,,312,634
+658,10367,Zone,613,LGA C The Line Sports Grill Market,,312,658
+526,10367,RevenueCenter,335,LGA C Flatiron Market,,313,526
+635,10367,Zone,612,LGA C Flatiron Market,,313,635
+659,10367,Zone,613,LGA C Flatiron Market,,313,659
+527,10367,RevenueCenter,335,LGA C Rossi Pizzeria Market,,314,527
+636,10367,Zone,612,LGA C Rossi Pizzeria Market,,314,636
+660,10367,Zone,613,LGA C Rossi Pizzeria Market,,314,660
+528,10367,RevenueCenter,335,LGA C Cibo Express Baggage,,315,528
+637,10367,Zone,612,LGA C Cibo Express Baggage,,315,637
+661,10367,Zone,613,LGA C Cibo Express Baggage,,315,661
+529,10367,RevenueCenter,336,LGA MAT Salotto,,101,529
+737,10367,Zone,666,LGA MAT Cibo Express Ramp,,301,737
+530,10367,RevenueCenter,336,LGA MAT Cibo Express Ramp,,301,530
+848,10367,Zone,761,LGA MAT Cibo Express Ramp,,301,848
+738,10367,Zone,666,LGA MAT Cibo Express Rotunda,,302,738
+531,10367,RevenueCenter,336,LGA MAT Cibo Express Rotunda,,302,531
+849,10367,Zone,761,LGA MAT Cibo Express Rotunda,,302,849
+739,10367,Zone,666,LGA MAT Salotto Market,,303,739
+532,10367,RevenueCenter,336,LGA MAT Salotto Market,,303,532
+850,10367,Zone,761,LGA MAT Salotto Market,,303,850
+533,10367,RevenueCenter,337,MCO Cibo Express 72,,301,533
+851,10367,Zone,762,MCO Cibo Express 72,,301,851
+534,10367,RevenueCenter,337,MCO Cibo Express 82,,302,534
+852,10367,Zone,762,MCO Cibo Express 82,,302,852
+535,10367,RevenueCenter,337,MCO Cibo Express 92,,303,535
+853,10367,Zone,762,MCO Cibo Express 92,,303,853
+536,10367,RevenueCenter,338,MSP Mill City Tavern,,101,536
+537,10367,RevenueCenter,338,MSP Mimosa,,102,537
+538,10367,RevenueCenter,338,MSP MinniBar,,103,538
+539,10367,RevenueCenter,338,MSP Shoyu,,104,539
+540,10367,RevenueCenter,338,MSP Twinburger & Tap,,105,540
+541,10367,RevenueCenter,338,MSP Volante,,106,541
+741,10367,Zone,667,MSP Crisp and Green,,201,741
+542,10367,RevenueCenter,338,MSP Crisp and Green,,201,542
+854,10367,Zone,763,MSP Crisp and Green,,201,854
+742,10367,Zone,667,MSP Custom Burgers P1,,202,742
+543,10367,RevenueCenter,338,MSP Custom Burgers P1,,202,543
+855,10367,Zone,763,MSP Custom Burgers P1,,202,855
+743,10367,Zone,667,MSP Custom Burgers P5,,203,743
+544,10367,RevenueCenter,338,MSP Custom Burgers P5,,203,544
+856,10367,Zone,763,MSP Custom Burgers P5,,203,856
+745,10367,Zone,667,MSP Cibo Express P3,,301,745
+545,10367,RevenueCenter,338,MSP Cibo Express P3,,301,545
+858,10367,Zone,763,MSP Cibo Express P3,,301,858
+746,10367,Zone,667,MSP Cibo Express P4,,302,746
+546,10367,RevenueCenter,338,MSP Cibo Express P4,,302,546
+859,10367,Zone,763,MSP Cibo Express P4,,302,859
+747,10367,Zone,667,MSP Cibo Express P5,,303,747
+547,10367,RevenueCenter,338,MSP Cibo Express P5,,303,547
+860,10367,Zone,763,MSP Cibo Express P5,,303,860
+748,10367,Zone,667,MSP Food Hall MSP,,304,748
+548,10367,RevenueCenter,338,MSP Food Hall MSP,,304,548
+861,10367,Zone,763,MSP Food Hall MSP,,304,861
+750,10367,Zone,667,MSP Shoyu Market,,306,750
+549,10367,RevenueCenter,338,MSP Shoyu Market,,306,549
+863,10367,Zone,763,MSP Shoyu Market,,306,863
+744,10367,Zone,667,MSP Uptop Pizza P1,,204,744
+550,10367,RevenueCenter,338,MSP Uptop Pizza P1,,204,550
+857,10367,Zone,763,MSP Uptop Pizza P1,,204,857
+749,10367,Zone,667,MSP Uptop Pizza P1,,305,749
+551,10367,RevenueCenter,338,MSP Uptop Pizza P1,,305,551
+862,10367,Zone,763,MSP Uptop Pizza P1,,305,862
+751,10367,Zone,667,MSP Twinburger & Tap Market,,307,751
+552,10367,RevenueCenter,338,MSP Twinburger & Tap Market,,307,552
+864,10367,Zone,763,MSP Twinburger & Tap Market,,307,864
+553,10367,RevenueCenter,338,MSP Gate Lounge,,401,553
+554,10367,RevenueCenter,339,ORD Cibo Express T2,,301,554
+865,10367,Zone,764,ORD Cibo Express T2,,301,865
+555,10367,RevenueCenter,339,ORD Cibo Express T3,,302,555
+866,10367,Zone,764,ORD Cibo Express T3,,302,866
+556,10367,RevenueCenter,340,PHL B Baba Bar,,101,556
+557,10367,RevenueCenter,340,PHL B Boule Cafe,,102,557
+558,10367,RevenueCenter,340,PHL B Cibo Bistro,,103,558
+559,10367,RevenueCenter,340,PHL B Germantown Biergarten,,104,559
+560,10367,RevenueCenter,340,PHL B Independence Prime,,105,560
+561,10367,RevenueCenter,340,PHL B Love Grille,,106,561
+562,10367,RevenueCenter,340,PHL B Mezzogiorno,,107,562
+563,10367,RevenueCenter,340,PHL B Noobar,,108,563
+752,10367,Zone,668,PHL B Boule Cafe Market,,301,752
+564,10367,RevenueCenter,340,PHL B Boule Cafe Market,,301,564
+867,10367,Zone,765,PHL B Boule Cafe Market,,301,867
+753,10367,Zone,668,PHL B Cibo Bistro Market,,302,753
+565,10367,RevenueCenter,340,PHL B Cibo Bistro Market,,302,565
+868,10367,Zone,765,PHL B Cibo Bistro Market,,302,868
+754,10367,Zone,668,PHL B Love Grille Market,,303,754
+566,10367,RevenueCenter,340,PHL B Love Grille Market,,303,566
+869,10367,Zone,765,PHL B Love Grille Market,,303,869
+755,10367,Zone,668,PHL B Mezzogiorno Market,,304,755
+567,10367,RevenueCenter,340,PHL B Mezzogiorno Market,,304,567
+870,10367,Zone,765,PHL B Mezzogiorno Market,,304,870
+756,10367,Zone,668,PHL B Noobar Market,,305,756
+568,10367,RevenueCenter,340,PHL B Noobar Market,,305,568
+871,10367,Zone,765,PHL B Noobar Market,,305,871
+757,10367,Zone,668,PHL B Walkthrough CEGM,,306,757
+569,10367,RevenueCenter,340,PHL B Walkthrough CEGM,,306,569
+872,10367,Zone,765,PHL B Walkthrough CEGM,,306,872
+570,10367,RevenueCenter,340,PHL B Gate B1,,401,570
+571,10367,RevenueCenter,341,PHL F Local Tavern,,101,571
+572,10367,RevenueCenter,341,PHL F Re:Vive,,102,572
+573,10367,RevenueCenter,341,PHL F Local Tavern Market,,301,573
+874,10367,Zone,873,PHL F Local Tavern Market,,301,874
+574,10367,RevenueCenter,342,YYZ T1 Apropos F61,,101,574
+575,10367,RevenueCenter,342,YYZ T1 Apropos F62,,102,575
+576,10367,RevenueCenter,342,YYZ T1 Fetta Panini Bar,,103,576
+577,10367,RevenueCenter,342,YYZ T1 Heirloom Bakery,,104,577
+578,10367,RevenueCenter,342,YYZ T1 Marathi,,105,578
+579,10367,RevenueCenter,342,YYZ T1 Vinifera,,106,579
+580,10367,RevenueCenter,342,YYZ T3 Acer,,107,580
+581,10367,RevenueCenter,342,YYZ T3 Beer Hive,,108,581
+582,10367,RevenueCenter,342,YYZ T3 Corso,,109,582
+583,10367,RevenueCenter,342,YYZ T3 Heirloom Bakery,,110,583
+584,10367,RevenueCenter,342,YYZ T3 Nobel Burger,,111,584
+585,10367,RevenueCenter,342,YYZ T1 Cibo Express F61,,301,585
+600,10367,Zone,611,YYZ T1 Cibo Express F61,,301,600
+586,10367,RevenueCenter,342,YYZ T1 Cibo Express D20,,302,586
+601,10367,Zone,611,YYZ T1 Cibo Express D20,,302,601
+587,10367,RevenueCenter,342,YYZ T1 Fetta Market,,303,587
+602,10367,Zone,611,YYZ T1 Fetta Market,,303,602
+588,10367,RevenueCenter,342,YYZ T1 Heirloom Market,,304,588
+603,10367,Zone,611,YYZ T1 Heirloom Market,,304,603
+589,10367,RevenueCenter,342,YYZ T1 Marathi Market,,305,589
+604,10367,Zone,611,YYZ T1 Marathi Market,,305,604
+590,10367,RevenueCenter,342,YYZ T1 Vinifera Market,,306,590
+605,10367,Zone,611,YYZ T1 Vinifera Market,,306,605
+591,10367,RevenueCenter,342,YYZ T3 Acer Market,,307,591
+606,10367,Zone,611,YYZ T3 Acer Market,,307,606
+592,10367,RevenueCenter,342,YYZ T3 Corso Market,,308,592
+607,10367,Zone,611,YYZ T3 Corso Market,,308,607
+593,10367,RevenueCenter,342,YYZ T3 Heirloom Market,,309,593
+608,10367,Zone,611,YYZ T3 Heirloom Market,,309,608
+594,10367,RevenueCenter,342,YYZ T3 Nobel Market,,310,594
+609,10367,Zone,611,YYZ T3 Nobel Market,,310,609
+595,10367,RevenueCenter,342,YYZ T3 Vinifera Market,,311,595
+610,10367,Zone,611,YYZ T3 Vinifera Market,,311,610
+596,10367,RevenueCenter,333,IAH Beerhive West,,118,596
+597,10367,Zone,42,Market ZONE,,100,597
+598,10367,Zone,597,Market F&B ZONE,,1000,598
+599,10367,Zone,597,Market N&G ZONE,,2000,599
+611,10367,Zone,598,YYZ Market F&B ZONE,,1013,611
+612,10367,Zone,598,LGAC Market F&B Zone,,1006,612
+613,10367,Zone,599,LGAC Market N&G Zone,,2006,613
+662,10367,Zone,599,DCA Market N&G Zone,,2001,662
+663,10367,Zone,599,DEN Market N&G Zone,,2002,663
+664,10367,Zone,599,EWR Market N&G Zone,,2003,664
+665,10367,Zone,599,IAH Market N&G Zone,,2004,665
+666,10367,Zone,599,LGAMAT Market N&G Zone,,2007,666
+667,10367,Zone,599,MSP Market N&G Zone,,2009,667
+668,10367,Zone,599,PHLB Market N&G Zone,,2011,668
+705,10367,Zone,598,DCA Market F&B Zone,,1001,705
+740,10367,Zone,598,DEN Market F&B Zone,,1002,740
+758,10367,Zone,598,EWR Market F&B Zone,,1003,758
+759,10367,Zone,598,IAH Market F&B Zone,,1004,759
+760,10367,Zone,598,JFKT5 Market F&B Zone,,1005,760
+761,10367,Zone,598,LGAMAT Market F&B Zone,,1007,761
+762,10367,Zone,598,MCO Market F&B Zone,,1008,762
+763,10367,Zone,598,MSP Market F&B Zone,,1009,763
+764,10367,Zone,598,ORD Market F&B Zone,,1010,764
+765,10367,Zone,598,PHLB Market F&B Zone,,1011,765
+873,10367,Zone,598,PHLF Market F&B Zone,,1012,873
+903,10367,RevenueCenter,332,EWR Bar Left,,124,903
+905,10367,RevenueCenter,333,IAH The Line Sports Bar,,127,905
+906,10367,RevenueCenter,333,IAH Q Market,,327,906
+907,10367,RevenueCenter,334,JFK T5 CC Cibo Express/Jamba,,308,907
+908,10367,RevenueCenter,334,JFK T5 EC Cibo Express Temp,,309,908
+912,10367,RevenueCenter,334,JFK T5 PS Dunkin,,211,912
+913,10367,RevenueCenter,338,MSP Mill City Tavern Market,,308,913
+914,10367,RevenueCenter,335,LGA C Cotto Market,,316,914
+916,10367,RevenueCenter,332,EWR C1 Holdroom 71,,402,916
+925,10367,RevenueCenter,332,EWR C1 Holdroom 96,,411,925
+926,10367,RevenueCenter,332,EWR C2 Holdroom 100,,412,926
+927,10367,RevenueCenter,332,EWR C2 Holdroom 101,,413,927
+929,10367,RevenueCenter,332,EWR C2 Holdroom 105,,415,929
+933,10367,RevenueCenter,332,EWR C3 Holdroom 120,,419,933
+940,10367,RevenueCenter,333,IAH Olio Holdroom,,403,940
+943,10367,RevenueCenter,333,IAH Vida Holdroom,,406,943
+944,10367,RevenueCenter,340,PHL B Gate B10,,402,944
+945,10367,RevenueCenter,340,PHL B Gate B11,,403,945
+946,10367,RevenueCenter,340,PHL B Gate B13,,404,946
+948,10367,RevenueCenter,340,PHL B Gate B15,,406,948
+954,10367,RevenueCenter,340,PHL B Gate B6,,412,954
+957,10367,RevenueCenter,340,PHL B Gate B9,,415,957
+959,10367,RevenueCenter,333,IAH Tagliare E,,206,959
+960,10367,RevenueCenter,333,IAH World Bean E,,207,960
+961,10367,RevenueCenter,342,YYZ T3 Vinifera,,112,961
+965,10367,RevenueCenter,882,JFK T5 Mozzlab,,203,965
+966,10367,RevenueCenter,882,JFK T5 Serafina,,103,966
+967,10367,RevenueCenter,882,JFK T5 Neir's Tavern,,104,967
+968,10367,RevenueCenter,882,JFK T5 Pastrami Queen,,105,968
+969,10367,RevenueCenter,882,JFK T5 Regina's Grocery,,204,969
+970,10367,RevenueCenter,882,JFK T5 Court Street Grocers,,205,970
+1002,10367,Zone,705,DCA Boars Head,,201,1002
+982,10367,RevenueCenter,330,DCA Boars Head,,201,982
+1018,10367,Zone,662,DCA Boars Head,,201,1018
+983,10367,RevenueCenter,330,DCA Custom Burgers,,202,983
+1003,10367,Zone,705,DCA Custom Burgers,,202,1003
+1019,10367,Zone,662,DCA Custom Burgers,,202,1019
+1005,10367,Zone,42,Beverage Menu Staging ZONE,,900,1005
+1007,10367,Zone,1005,DEN Beverage Menu Staging,,9002,1007
+1008,10367,Zone,1005,EWR Beverage Menu Staging,,9003,1008
+1009,10367,Zone,1005,IAH Beverage Menu Staging,,9004,1009
+1011,10367,Zone,1005,LGAC Beverage Menu Staging,,9006,1011
+941,10367,RevenueCenter,333,IAH Pala Holdroom,,404,941
+949,10367,RevenueCenter,340,PHL B Gate B16,,407,949
+955,10367,RevenueCenter,340,PHL B Gate B7,,413,955
+963,10367,RevenueCenter,882,JFK T5 Nom Wah Bar,,102,963
+984,10367,RevenueCenter,330,DCA Tagliare,,203,984
+1020,10367,Zone,662,DCA Tagliare,,203,1020
+1004,10367,Zone,705,DCA Tagliare,,203,1004
+1006,10367,Zone,1005,DCA Beverage Menu Staging,,9001,1006
+1010,10367,Zone,1005,JFKT5 Beverage Menu Staging,,9005,1010
+882,10367,Property,42,JFK T5 VII,JFKT5VII,14,882
+883,10367,RevenueCenter,882,JFK T5 NC Melt Shop,,201,883
+909,10367,RevenueCenter,334,JFK T5 FC Dunkin,,209,909
+910,10367,RevenueCenter,334,JFK T5 LL Dunkin,,210,910
+911,10367,RevenueCenter,334,JFK T5 NC Cibo Express Temp,,310,911
+920,10367,RevenueCenter,332,EWR C1 Holdroom 82,,406,920
+921,10367,RevenueCenter,332,EWR C1 Holdroom 84,,407,921
+924,10367,RevenueCenter,332,EWR C1 Holdroom 95,,410,924
+930,10367,RevenueCenter,332,EWR C2 Holdroom 108,,416,930
+932,10367,RevenueCenter,332,EWR C2 Holdroom 112,,418,932
+935,10367,RevenueCenter,332,EWR C3 Holdroom 125,,421,935
+936,10367,RevenueCenter,332,EWR C3 Holdroom 132,,422,936
+1017,10367,Zone,1005,YYZ Beverage Menu Staging,,9013,1017
+1015,10367,Zone,1005,PHLB Beverage Menu Staging,,9011,1015
+1016,10367,Zone,1005,PHLF Beverage Menu Staging,,9012,1016
+1014,10367,Zone,1005,MSP Beverage Menu Staging,,9009,1014
