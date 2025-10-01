@@ -9,9 +9,8 @@ from google import genai
 load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
-FRONTEND_DIR = BASE_DIR.parent / "frontend"
 
-app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path="")
+app = Flask(__name__, static_folder=str(BASE_DIR), static_url_path="")
 
 _client = None
 
