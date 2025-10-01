@@ -1,12 +1,12 @@
-# export GEMINI_API_KEY=AIzaSyDFSJV2QVWKFlQhgz7sph12mRT4nsmGDSI
-
 import os
 import uuid
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
-
+from dotenv import load_dotenv
 from flask import Flask, jsonify, request, send_from_directory
 from google import genai
+
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
 FRONTEND_DIR = BASE_DIR.parent / "frontend"
@@ -19,7 +19,7 @@ _client = None
 def get_client():
     global _client
     if _client is None:
-        _client = genai.Client()
+        _client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))
     return _client
 
 
